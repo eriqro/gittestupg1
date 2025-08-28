@@ -1,9 +1,13 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non diam eu ligula tempus elementum. Etiam id ultricies sapien. Pellentesque et dui pulvinar, sagittis eros sit amet, congue augue. Donec sed dictum purus. Vivamus id nisi eget ante tristique congue. Etiam in eleifend ligula, et pulvinar leo. Nam congue egestas purus vel imperdiet. Quisque sit amet lectus at nunc facilisis efficitur a ac odio. Sed vehicula vitae diam eget vestibulum. Sed iaculis metus massa, id imperdiet turpis tincidunt eu. Praesent tincidunt posuere condimentum.
+# Övning 3
+## Description
+Sed efficitur diam eu leo sollicitudin feugiat. Nullam interdum bibendum sollicitudin. Donec tempus sem a ornare vehicula. Morbi quis sollicitudin nibh. Phasellus ultricies mattis nulla, eu malesuada magna tristique quis. In aliquam metus a suscipit faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi ante diam, fringilla at ultricies id, porta vitae dui. Proin nulla elit, tincidunt non malesuada non, ullamcorper id ante. Quisque lobortis vel enim a pulvinar. Maecenas porta in justo ac maximus.
 
-Nunc blandit sagittis urna tristique maximus. Quisque ut interdum orci. Praesent vitae rutrum purus, nec faucibus nulla. Vestibulum vel tempor lectus. Aliquam erat volutpat. Suspendisse quis varius turpis. Nullam mattis ligula turpis, eu laoreet urna vehicula nec.
+## License
+Do anything you want with this program, with the exceptions listed below under "EXCEPTIONS".
 
-Nunc pellentesque condimentum convallis. Curabitur iaculis lorem id dolor porttitor lacinia. Nulla in tempor magna. Curabitur in mauris porttitor, tempor lectus sit amet, lobortis metus. Fusce lectus turpis, lacinia vel cursus nec, aliquet eget purus. Nulla hendrerit finibus lorem vel porta. Phasellus molestie euismod pretium. Nullam blandit massa vitae sapien rutrum, sed aliquam lectus facilisis. Phasellus varius magna porttitor, posuere quam eu, iaculis nulla. Praesent non augue vitae lorem posuere aliquam ut accumsan neque.
+THIS SOFTWARE IS PROVIDED "AS IS" WITH NO WARRANTY OF ANY KIND.
 
-Proin id elit euismod, imperdiet turpis sed, condimentum justo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris a est a purus cursus lobortis vitae rutrum mi. Sed ut lobortis magna. Aliquam erat volutpat. Aenean elementum gravida lectus non accumsan. Morbi convallis tincidunt lorem, et egestas nisl molestie vehicula. Praesent at fringilla arcu. Curabitur imperdiet quam ac risus efficitur, non fringilla orci laoreet. Donec efficitur viverra mattis.
+In the unlikely event that you happen to make a zillion bucks off of this, then good for you; consider buying a homeless person a meal.
 
-Nulla lobortis lectus vitae lacus facilisis aliquet. Suspendisse potenti. Donec auctor massa sit amet est elementum auctor. Morbi sit amet imperdiet est. Suspendisse auctor at magna eu tristique. Phasellus non est in justo accumsan placerat eget sit amet ante. Nullam tincidunt ipsum non auctor fringilla. Donec vitae est a urna volutpat porttitor. Nulla facilisi. Etiam elementum lacus id pretium efficitur. Vivamus sit amet fringilla ex. Nullam sit amet neque sit amet massa consequat fermentum ut in mauris. Phasellus tempus non est sit amet ultrices. Maecenas sit amet accumsan est, ac interdum lorem. Pellentesque tincidunt ac est a bibendum. Etiam sem massa, convallis nec sapien et, malesuada varius sapien.
+EXCEPTIONS
+Americans may not make use of or redistribute this program or any of its derivatives.
